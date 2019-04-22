@@ -6,3 +6,4 @@ git commit 提交到本地仓库
 git log 查看提交历史
 
 测试回退本地版本： git reset --hard~1
+恢复回退  分两步：1、git reflog 查看版本   2、git reset --hard 版本号
