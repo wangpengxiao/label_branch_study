@@ -2,3 +2,5 @@ git 分支、标签的学习
 git init 初始化git仓库
 git add 添加到暂存区
 git commit 提交到本地仓库
+
+git log 查看提交历史
